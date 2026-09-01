@@ -1,6 +1,6 @@
 # This is my first Python programming assignment
-# Author: write your name here
-# Date: write today's date here
+# Author: Gislaine Pires
+# Date: 8/31/2026
 
 name = input("What is your name? ")
 print("Hello,", name)
